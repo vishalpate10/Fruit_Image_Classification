@@ -11,7 +11,7 @@ def set_bg():
         f"""
         <style>
         .stApp {{
-            background-image: url("https://cdn.pixabay.com/photo/2023/08/30/17/16/ai-generated-8223819_1280.jpg");
+            background-image: url("https://plus.unsplash.com/premium_photo-1671379086152-0effad2b1e09?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
             background-size: cover;
             background-position: center;
         }}
